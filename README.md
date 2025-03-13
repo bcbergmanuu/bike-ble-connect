@@ -1,3 +1,3 @@
 # udesk bike connector
 
-![alt text](https://github.com/bcbergmanuu/bike-ble-connect/blob/master/deskbike-c.jpg?raw=true)
+![desk_bike](https://github.com/bcbergmanuu/bike-ble-connect/blob/master/assets/deskbike-c.jpg?raw=true)
